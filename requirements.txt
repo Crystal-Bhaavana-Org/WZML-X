@@ -1,4 +1,4 @@
-aiohttp[speedups]
+aiohttp
 aiofiles
 aioshutil
 anytree==2.8.0
@@ -6,7 +6,6 @@ apscheduler
 aria2p
 asyncio
 beautifulsoup4
-bencoding
 cinemagoer
 cloudscraper
 cryptography
@@ -30,11 +29,10 @@ pillow
 psutil
 pybase64
 pycountry
-python-dotenv
-pyshorteners
-python-magic
 pymongo
 pyrogram==2.0.83
+python-dotenv
+python-magic
 pytz
 quoters
 qbittorrent-api
@@ -43,7 +41,6 @@ speedtest-cli
 telegraph
 tenacity
 tgcrypto
-uv
 uvloop
 xattr
 yt-dlp==2025.04.30
